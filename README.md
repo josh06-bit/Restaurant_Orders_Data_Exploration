@@ -99,8 +99,9 @@ Reveals price extremes and helps understand menu pricing strategy.
 Insight:
 Highlights cuisine representation and category balance.
 
-<img width="363" height="308" alt="image" src="https://github.com/user-attachments/assets/ba4ee185-8d13-44e9-b3de-ac20088d1ce5" /> <img width="86" height="63" alt="image" src="https://github.com/user-attachments/assets/5fb166fb-2d77-4f14-bea3-b13b854f9586" />
+<img width="363" height="308" alt="image" src="https://github.com/user-attachments/assets/ba4ee185-8d13-44e9-b3de-ac20088d1ce5" />
 
+<img width="86" height="63" alt="image" src="https://github.com/user-attachments/assets/5fb166fb-2d77-4f14-bea3-b13b854f9586" />
 
 
 #### 5. Identify the least and most expensive Italian dishes
@@ -108,6 +109,9 @@ Highlights cuisine representation and category balance.
 Insight:
 Provides detail into pricing distribution within a specific cuisine.
 
+<img width="300" height="64" alt="image" src="https://github.com/user-attachments/assets/3ea15825-a820-4cf1-9d55-045eca7b8142" />
+
+<img width="321" height="66" alt="image" src="https://github.com/user-attachments/assets/6024ea39-f271-4873-8378-b4a8b40ec537" />
 
 
 #### 6. Count how many dishes exist in each category
@@ -115,7 +119,70 @@ Provides detail into pricing distribution within a specific cuisine.
 Insight:
 Shows how balanced or skewed the menu is across food types.
 
+<img width="206" height="168" alt="image" src="https://github.com/user-attachments/assets/79a65f0b-fe1c-46cb-b030-f9d86cc3e87e" />
+
+
 #### 7. Compute the average dish price per category
 
 Insight:
 Helps analyze pricing tiers and evaluate whether certain categories are underpriced or overpriced.
+
+<img width="187" height="169" alt="image" src="https://github.com/user-attachments/assets/9f563a7b-1742-4c7b-b8ef-afa2913d259a" />
+
+
+### Menu_orders_items.ipynb
+
+Combined analysis from joining order_details and menu_items.
+
+#### 1. Merge order and menu data into one table
+
+Insight:
+Joining both tables enables richer insights—such as spending, popularity, or category trends.
+
+<img width="738" height="633" alt="image" src="https://github.com/user-attachments/assets/6cc16ea3-9dee-4829-9e9a-d1e748c39cbb" />
+
+
+#### 2. Identify least and most ordered items + their categories
+
+Insight:
+Shows customer preferences, unpopular dishes, and category demand—useful for optimizing the menu.
+
+Includes:
+
+**Least ordered item**
+
+<img width="267" height="63" alt="image" src="https://github.com/user-attachments/assets/d930627e-cbda-4280-ad21-0cd875a565a4" />
+
+
+**Most ordered item**
+
+<img width="267" height="66" alt="image" src="https://github.com/user-attachments/assets/c9ec036b-e6ac-41cd-9aef-cf4d171940b4" />
+
+
+**Combined output**
+
+<img width="277" height="98" alt="image" src="https://github.com/user-attachments/assets/04f6be5c-72a9-4dd6-b892-ad3617665a48" />
+
+
+#### 3. Identify the top 5 highest-spend orders
+
+Insight:
+Helps uncover big-ticket transactions, ideal for targeted marketing or operational planning.
+
+<img width="344" height="224" alt="image" src="https://github.com/user-attachments/assets/75d2ffcb-2f60-46c8-b270-d63b2ab8b017" />
+
+
+#### 4. View and analyze the highest-spend order
+
+<img width="156" height="162" alt="image" src="https://github.com/user-attachments/assets/285f0e2b-ec36-4328-a282-d0274ff8297d" />
+
+<img width="172" height="160" alt="image" src="https://github.com/user-attachments/assets/4c033a57-424c-4d8f-b8e2-2314b8ed198e" />
+
+<img width="232" height="639" alt="image" src="https://github.com/user-attachments/assets/2b73a473-3af6-47a3-88f9-b1677da6ca8c" />
+
+
+### 🧰 Tools Used
+
+- Python (Pandas, SQLite3, Jupyter)
+- SQLite
+- Jupyter Notebook
