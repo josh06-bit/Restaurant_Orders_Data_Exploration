@@ -72,25 +72,43 @@ Exploration of menu structure and pricing.
 Insight:
 Gives an overview of the available dishes, categories, and prices.
 
+<img width="370" height="675" alt="image" src="https://github.com/user-attachments/assets/e91ce44e-1e48-43ab-9ecb-e0658cc0271e" />
+
+
 #### 2. Find the total number of items on the menu
 
 Insight:
 Shows menu breadth and complexity.
+
+<img width="88" height="74" alt="image" src="https://github.com/user-attachments/assets/7755f4ff-96e1-4a45-881e-e4eb1aea5ba1" />
+
 
 #### 3. Identify the least and most expensive items
 
 Insight:
 Reveals price extremes and helps understand menu pricing strategy.
 
+<img width="287" height="70" alt="image" src="https://github.com/user-attachments/assets/ecc4f812-27b9-48f4-8015-1f7bcb3bac13" />
+
+<img width="311" height="76" alt="image" src="https://github.com/user-attachments/assets/8c9624b1-7416-4443-96af-b61668489577" />
+
+
+
 #### 4. Count how many Italian dishes are in the menu
 
 Insight:
 Highlights cuisine representation and category balance.
 
+<img width="363" height="308" alt="image" src="https://github.com/user-attachments/assets/ba4ee185-8d13-44e9-b3de-ac20088d1ce5" /> <img width="86" height="63" alt="image" src="https://github.com/user-attachments/assets/5fb166fb-2d77-4f14-bea3-b13b854f9586" />
+
+
+
 #### 5. Identify the least and most expensive Italian dishes
 
 Insight:
 Provides detail into pricing distribution within a specific cuisine.
+
+
 
 #### 6. Count how many dishes exist in each category
 
