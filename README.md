@@ -19,6 +19,9 @@ Analysis of the order details dataset.
 Why this matters:
 Understanding the raw structure helps verify the fields, detect missing data, and plan the exploration.
 
+<img width="502" height="429" alt="image" src="https://github.com/user-attachments/assets/c5fcb8b1-a6c6-4c11-bbd5-cff3ba2d01a9" />
+
+
 #### 2. Identify the date range of the table
 
 Insight:
