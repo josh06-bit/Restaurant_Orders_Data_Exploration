@@ -25,7 +25,7 @@ Understanding the raw structure helps verify the fields, detect missing data, an
 #### 2. Identify the date range of the table
 
 Insight:
-The timeframe determines how representative the data is. It reveals seasonality, trends, and data completeness.
+It reveals seasonality, trends, and data completeness.
 
 <img width="296" height="90" alt="image" src="https://github.com/user-attachments/assets/f5de58a9-a5fa-4546-9b84-4a41884adec3" />
 
